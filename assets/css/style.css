@@ -1,6 +1,23 @@
 body {
 
 }
+.logo-box {
+    display: flex;
+    margin-top: 1rem;
+}
+.logo {
+    height: 2rem;
+}
+.logo-text {
+    color: white;
+    
+}
+
+
+.collapse {
+   justify-content: flex-end 
+}
+
 
 .row {
     background-color: black;
