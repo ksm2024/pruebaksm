@@ -1,4 +1,6 @@
 body {
+    background-color: black;
+    color: white;
 
 }
 .logo-box {
@@ -13,17 +15,19 @@ body {
     
 }
 
-
 .collapse {
    justify-content: flex-end 
 }
-
-
-.row {
-    background-color: black;
-    height: 30rem;
-    padding: 40px;
+main {
+       
 }
+.quien {
+        
+}
+.row {
+    
+   
+    }
 
 .col-12 {
     margin: 1rem;
@@ -52,4 +56,5 @@ footer {
     font-size: 1.5rem;
     height: 5rem;
     padding-top: 2rem;
+    
 }
