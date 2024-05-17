@@ -70,6 +70,9 @@ h4 {
 }
 
 /* footer */
+i {
+    color: white;
+}
 
 footer {
     background-color: rgb(13, 202, 240);
