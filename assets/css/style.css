@@ -5,6 +5,11 @@ body {
 }
 
 /* navbar */
+.navbar-scrolled {
+    background-color: rgb(13, 202, 240);
+    border-bottom: 3px solid black;
+    
+}
 .logo-box {
     display: flex;
     margin-top: 1rem;
@@ -29,26 +34,18 @@ body {
 
 
 /* whosection  */
-h2 {
-    text-align: center;
-    size: 4rem;
-    padding: 4rem;
-    border-bottom-style: groove;
-}
+
 div .row {
     display: flex;
     justify-content: center;
     
   }
 
+ 
 /* descatados */
-h3 {
-    text-align: center;
-    size: 4rem;
-    padding: 4rem;
-    border-bottom-style: groove;
+h6 {
+    margin: 1rem;
 }
-
 .col-12 {
     margin: 1rem;
     padding: 0px;
@@ -71,14 +68,14 @@ h3 {
 h4 {
     text-align: center;
     size: 4rem;
-    padding: 4rem;
-    border-bottom-style: groove;
-
+    padding: 3rem;
+    border-bottom-style:groove;
+    margin-bottom: 4rem;
 }
 
 .formulario {
     background-color: black;
-    padding: 40px;
+    padding: 50px;
     color: white;
 }
 
