@@ -3,22 +3,42 @@ body {
     color: white;
 
 }
+
+/* navbar */
 .logo-box {
     display: flex;
     margin-top: 1rem;
 }
+
 .logo {
     height: 2rem;
 }
+
 .logo-text {
     color: white;
-    
+
 }
 
 .collapse {
-   justify-content: flex-end 
+    justify-content: flex-end
 }
 
+/* whosection  */
+h2 {
+    text-align: center;
+    size: 4rem;
+    padding: 4rem;
+    border-bottom-style: groove;
+}
+
+
+/* descatados */
+h3 {
+    text-align: center;
+    size: 4rem;
+    padding: 4rem;
+    border-bottom-style: groove;
+}
 
 .col-12 {
     margin: 1rem;
@@ -26,21 +46,31 @@ body {
     border-width: 10px solid white;
 }
 
- .card-img-top {
-    
-height: 10rem;
-border-top-left-radius: 1rem;
-border-top-right-radius: 1rem;
+.card-img-top {
 
-} 
+    height: 10rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
 
+}
+
+/* contacto */
+h4 {
+    text-align: center;
+    size: 4rem;
+    padding: 4rem;
+    border-bottom-style: groove;
+
+}
 
 .formulario {
     background-color: black;
-    height: 30rem;
     padding: 40px;
     color: white;
 }
+
+/* footer */
+
 footer {
     background-color: rgb(13, 202, 240);
     color: white;
@@ -48,5 +78,5 @@ footer {
     height: 5rem;
     padding-top: 2rem;
     display: flex;
-    
+
 }
