@@ -8,6 +8,7 @@ body {
 .logo-box {
     display: flex;
     margin-top: 1rem;
+    padding-left: 2rem;
 }
 
 .logo {
@@ -16,12 +17,16 @@ body {
 
 .logo-text {
     color: white;
-
+    
 }
 
 .collapse {
     justify-content: flex-end
 }
+#navbarNav {
+    padding-right: 3rem;
+}
+
 
 /* whosection  */
 h2 {
@@ -79,7 +84,7 @@ footer {
     color: white;
     font-size: 1.5rem;
     height: 5rem;
-    padding-top: 2rem;
+    padding: 2rem;
     display: flex;
-
+    justify-content: space-between;
 }
