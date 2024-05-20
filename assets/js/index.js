@@ -25,6 +25,16 @@ window.addEventListener('scroll', () => {
     new bootstrap.Tooltip(myBttns[0]);
 
 
+    // p banishing
+ $("h6").click(function () {
+        $(".text").toggle();
+      });
+
+    //   color switch
+      $("section").on("dblclick", "h4", function () {
+        $(this).css("color", "greenyellow", "font-weight", "800");
+      });
+
 
 
 
