@@ -8,8 +8,9 @@ body {
 .navbar-scrolled {
     background-color: rgb(13, 202, 240);
     border-bottom: 3px solid black;
-    
+
 }
+
 .logo-box {
     display: flex;
     margin-top: 1rem;
@@ -22,12 +23,13 @@ body {
 
 .logo-text {
     color: white;
-    
+
 }
 
 .collapse {
     justify-content: flex-end
 }
+
 #navbarNav {
     padding-right: 3rem;
 }
@@ -38,14 +40,15 @@ body {
 div .row {
     display: flex;
     justify-content: center;
-    
-  }
 
- 
+}
+
+
 /* descatados */
 h6 {
     margin: 1rem;
 }
+
 .col-12 {
     margin: 1rem;
     padding: 0px;
@@ -61,15 +64,16 @@ h6 {
 }
 
 .row {
-    display:flex;
+    display: flex;
     justify-content: center;
 }
+
 /* contacto */
 h4 {
     text-align: center;
     size: 4rem;
     padding: 3rem;
-    border-bottom-style:groove;
+    border-bottom-style: groove;
     margin-bottom: 4rem;
 }
 
